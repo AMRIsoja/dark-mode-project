@@ -28,7 +28,7 @@ A simple and responsive dark mode toggle implemented with HTML, CSS, and vanilla
 ## Screenshots
 
 ### Light Mode
-![Light Mode](./screenshots/ight-Mode-Screenshot from 2026-05-17 12-26-40.png)
+![Light Mode](./screenshots/light-Mode-Screenshot%20from%202026-05-17%2012-26-40.png)
 
 ### Dark Mode
-![Dark Mode](./screenshots/Dark-mode-Screenshot from 2026-05-17 12-26-28.png)
+![Dark Mode](./screenshots/Dark-mode-Screenshot%20from%202026-05-17%2012-26-28.png)
